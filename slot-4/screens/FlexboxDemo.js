@@ -22,7 +22,7 @@ export default function FlexboxDemo() {
           - flexDirection: "row" => các box xếp ngang
           - flex: 1 cho mỗi box => chia đều không gian (equal-width)
       */}
-            <Text style={styles.section}>Row layout</Text>
+            <Text style={styles.section}>Row layout Demo</Text>
             <View style={[styles.row]}>
                 <View style={[styles.box, { backgroundColor: "#e67e22" }]} />
                 <View style={[styles.box, { backgroundColor: "#27ae60" }]} />
