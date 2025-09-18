@@ -142,7 +142,7 @@ const styles = StyleSheet.create({
         marginVertical: 8,
     },
     box: {
-        width: 160,
+        width: 60,
         height: 60,
         marginHorizontal: 5,
         borderRadius: 8
